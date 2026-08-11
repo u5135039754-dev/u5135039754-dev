@@ -1,16 +1,84 @@
-<h1 align="center">Hi there, I'm Borys Torzhanskyi 👋</h1> <h3 align="center">Junior Frontend Developer | Turning coffee into clean UI ⚡</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/status-open%20to%20work-00FF9C?style=for-the-badge&logo=briefcase&logoColor=black" /> <img src="https://img.shields.io/badge/based%20in-Italy-00FF9C?style=for-the-badge&logo=googlemaps&logoColor=black" /> </p>
-🧑‍💻 About Me
-🎓 Completed the Mate Academy Frontend Developer program
-💼 Currently in my employment stage as a Junior Frontend Developer
-🌱 Always leveling up my JavaScript & CSS skills
-🎯 Goal: build fast, clean, accessible interfaces
-⚡ Fun fact: I debug faster with dark mode on
-🛠️ Tech Stack
-REPO_ONE
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=u5135039754-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5135039754-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=u5135039754-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" /> </p>
-🚀 Featured Projects
-<table> <tr> <td> <a href="https://github.com/u5135039754-dev/react_phone-catalog"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=u5135039754-dev&repo=react_phone-catalog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" /> </a> </td> <td> <a href="https://github.com/u5135039754-dev/foreign-exchange-checker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=u5135039754-dev&repo=foreign-exchange-checker&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" /> </a> </td> </tr> </table>
-📫 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/borys-torzhanskyi-5a032838b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fe.torzhanskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e42e6bad-1d9d-434e-b57f-3c66571cba9e.gif" width="500" /> </p> <p align="center"><i>Thanks for stopping by — feel free to explore my repos! ⭐</i></p>
+<h1 align="center">Hi there, I'm Borys Torzhanskyi 👋</h1>
+
+<h3 align="center">Junior Frontend Developer | Turning coffee into clean UI ⚡</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20work-00FF9C?style=for-the-badge&logo=briefcase&logoColor=black" />
+  <img src="https://img.shields.io/badge/based%20in-Italy-00FF9C?style=for-the-badge&logo=googlemaps&logoColor=black" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Completed the **Mate Academy Frontend Developer** program
+- 💼 Currently in my employment stage as a **Junior Frontend Developer**
+- 🌱 Always leveling up my JavaScript & CSS skills
+- 🎯 Goal: build fast, clean, accessible interfaces
+- ⚡ Fun fact: I debug faster with dark mode on
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=u5135039754-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5135039754-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=u5135039754-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/u5135039754-dev/react_phone-catalog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=u5135039754-dev&repo=react_phone-catalog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/u5135039754-dev/foreign-exchange-checker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=u5135039754-dev&repo=foreign-exchange-checker&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/borys-torzhanskyi-2b48b8428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fe.torzhanskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e42e6bad-1d9d-434e-b57f-3c66571cba9e.gif" width="500" />
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos! ⭐</i></p>
