@@ -35,15 +35,21 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/u5135039754-dev/react_phone-catalog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=u5135039754-dev&repo=react_phone-catalog&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/u5135039754-dev/react_phone-catalog">📱 React Product Catalog</a></h4>
+      Phone/tablet/accessories store with cart, favorites, search &amp; sorting — built from a Mate Academy project spec.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </td>
-    <td>
-      <a href="https://github.com/u5135039754-dev/foreign-exchange-checker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=u5135039754-dev&repo=foreign-exchange-checker&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/u5135039754-dev/foreign-exchange-checker">💱 FX Checker</a></h4>
+      Live currency converter with rate-history charts, favorites, and a conversion log — a Frontend Mentor premium challenge.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
   </tr>
 </table>
