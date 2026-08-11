@@ -1,17 +1,22 @@
-<h1 align="center">Hi there, I'm Borys Torzhanskyi 👋</h1>
-
-<h3 align="center">Junior Frontend Developer | Turning coffee into clean UI ⚡</h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=180&section=header&text=Borys%20Torzhanskyi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=58&descSize=18&descColor=00FF9C" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20work-00FF9C?style=for-the-badge&logo=briefcase&logoColor=black" />
   <img src="https://img.shields.io/badge/based%20in-Italy-00FF9C?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=u5135039754-dev&label=Profile%20Views&color=00FF9C&style=for-the-badge" />
 </p>
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/borys-torzhanskyi-2b48b8428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fe.torzhanskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/u5135039754-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF9C&height=3&width=1000" />
+</p>
 
 ### 🧑‍💻 About Me
 
