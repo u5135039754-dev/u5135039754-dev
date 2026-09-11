@@ -1,31 +1,45 @@
-# 👋 Hey, I'm Borys Torzhanskyi
- 
-**Junior Frontend Developer** · Italy
- 
-## About Me
- 
-I finished Mate Academy's Frontend Developer program and I'm now in my employment stage, turning tickets into real interfaces instead of just course exercises. I work mainly in JavaScript, TypeScript, and React, and I'm the kind of developer who gets weirdly happy when a layout finally stops fighting flexbox. Frontend only — ask me about backend and you'll get a shrug and a grin.
- 
-## Tech Stack
- 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite,nodejs,npm,git,github,figma" alt="Tech stack: HTML, CSS, Sass, JavaScript, TypeScript, React, Vite, Node.js, npm, Git, GitHub, Figma" />
-## 📊 GitHub Stats
- 
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Borys+%F0%9F%91%8B;Junior+Frontend+Developer" alt="Hi, I'm Borys — Junior Frontend Developer" />
+</p>
+
+### About me
+
+I'm a junior frontend developer based in Italy. I finished the Mate Academy Frontend Developer course and I'm now in my employment stage, getting real experience on the job. I work mostly with HTML, CSS, JavaScript, TypeScript, React and SCSS, and I'm still adding to that list.
+
+Right now I'm wrapping up my internship and looking for my first full-time frontend role. If you're hiring junior devs, or just want to talk frontend, feel free to reach out.
+
+### Tech stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+### A few projects
+
+**[react_phone-catalog](https://github.com/u5135039754-dev/react_phone-catalog)** — an online phone store built as a Mate Academy practice project. React + TypeScript.
+
+**[Wine-Library/frontend](https://github.com/Wine-Library/frontend)** — a team project built together with other developers, mostly focused on styling and layout. SCSS.
+
+**[layout_landing-page](https://github.com/u5135039754-dev/layout_landing-page)** — a responsive landing page built from a design layout, another Mate Academy practice project. JavaScript.
+
+<details>
+<summary>📊 GitHub stats</summary>
+<br>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=u5135039754-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="Borys's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5135039754-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
-## 🔭 Currently Building
- 
-- Leveling up my TypeScript — moving past "it compiles" and into actually good types
-- Digging deeper into React patterns beyond what the course covered
-- Getting more comfortable testing frontend code, not just writing it
-- Picking up small UI/UX habits that make an interface feel polished, not just functional
-## Let's Connect
- 
-<p>
-  <a href="https://www.linkedin.com/in/borys-torzhanskyi-2b48b8428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fe.torzhanskyi@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/u5135039754-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
- /www.linkedin.com/in/borys-torzhanskyi-2b48b8428) or by [email](mailto:fe.torzhanskyi@gmail.com).
+
+</details>
+
+### Get in touch
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fe.torzhanskyi@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fe.torzhanskyi)
